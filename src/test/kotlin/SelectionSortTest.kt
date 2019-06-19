@@ -22,13 +22,20 @@ class SelectionSortTest {
         assertEquals(listOf(1,2,3,4,5,6,7,8,9), selectionSort(listOf(7,6,8,2,1,3,4,9,5)))
     }
 
+    @Test fun testEmptyList(){
+        assertEquals(emptyList<Int>(), selectionSort(emptyList()))
+    }
+
+    @Test fun testListWithDuplicateValues(){
+        assertEquals(listOf(1,1,1,2,2,2,3,3,3), selectionSort(listOf(3,2,1,1,2,3,2,3,1)))
+    }
+
     private fun selectionSort(list: List<Int>): List<Int> {
         val mutableList = list.toMutableList()
-        (0 until mutableList.size).map {
-            val min = mutableList.subList(it, mutableList.size).withIndex().minBy { v->v.value }
-
-            if (mutableList[it] > min!!.value) {
-                mutableList.swap(it, min.index+it)
+        mutableList.forEachIndexed{ index, _->
+            val min = mutableList.subList(index, mutableList.size).withIndex().minBy { v->v.value }
+            if (mutableList[index] > min!!.value) {
+                mutableList.swap(index, min.index+index)
             }
         }
         return mutableList.toList()

@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="826b497f-2e7d-442c-ac5f-1abd9c83a289" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/SelectionSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/SelectionSortTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/SelectionSortTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/SelectionSortTestKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/kotlin/SelectionSortTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/SelectionSortTest.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/SelectionSortTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+            <state relative-caret-position="171">
+              <caret line="29" column="86" selection-start-line="29" selection-start-column="86" selection-end-line="29" selection-end-column="86" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -213,18 +209,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 33m 09s.xml">
-      <configuration name="SelectionSortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 38m 25s.xml">
-      <configuration name="SelectionSortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 40m 15s.xml">
-      <configuration name="SelectionSortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 46m 39s.xml">
-      <configuration name="SelectionSortTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SelectionSortTest - 2019.06.19 at 14h 50m 37s.xml">
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
@@ -241,6 +225,18 @@
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SelectionSortTest - 2019.06.19 at 14h 54m 50s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 55m 08s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 56m 47s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 56m 58s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 58m 09s.xml">
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -307,8 +303,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/SelectionSortTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+        <state relative-caret-position="171">
+          <caret line="29" column="86" selection-start-line="29" selection-start-column="86" selection-end-line="29" selection-end-column="86" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
