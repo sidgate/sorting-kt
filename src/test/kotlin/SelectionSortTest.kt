@@ -1,6 +1,6 @@
 import org.junit.Assert.assertEquals
 import org.junit.Test
-import SelectionSort.Companion.sort
+import selectionSort as sort
 
 class SelectionSortTest {
     @Test fun testSortSingleElement(){
@@ -30,6 +30,4 @@ class SelectionSortTest {
     @Test fun testListWithDuplicateValues(){
         assertEquals(listOf(1,1,1,2,2,2,3,3,3), sort(listOf(3,2,1,1,2,3,2,3,1)))
     }
-
-
 }
