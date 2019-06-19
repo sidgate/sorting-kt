@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="826b497f-2e7d-442c-ac5f-1abd9c83a289" name="Default Changelist" comment="" />
+    <list default="true" id="826b497f-2e7d-442c-ac5f-1abd9c83a289" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/SelectionSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/SelectionSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/SelectionSortTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/SelectionSortTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/SelectionSortTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/SelectionSortTest.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -40,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/SelectionSortTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="128">
+              <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -58,6 +64,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -72,6 +81,7 @@
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -111,6 +121,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunDashboard">
@@ -202,28 +213,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 10m 05s.xml">
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 33m 09s.xml">
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 10m 47s.xml">
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 38m 25s.xml">
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 11m 27s.xml">
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 40m 15s.xml">
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 21m 44s.xml">
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 46m 39s.xml">
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 22m 28s.xml">
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 50m 37s.xml">
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 24m 44s.xml">
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 51m 11s.xml">
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 28m 34s.xml">
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 52m 16s.xml">
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 32m 48s.xml">
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 53m 09s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 54m 08s.xml">
+      <configuration name="SelectionSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectionSortTest - 2019.06.19 at 14h 54m 50s.xml">
       <configuration name="SelectionSortTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -290,8 +307,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/SelectionSortTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="128">
+          <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
