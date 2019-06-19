@@ -1,3 +1,8 @@
+
+class Sorter(val strategy: (list: List<Int>)->List<Int>) {
+    fun sort(list: List<Int>) = strategy(list)
+}
+
 fun selectionSort(list: List<Int>): List<Int> {
     val mutableList = list.toMutableList()
     mutableList.forEachIndexed { index, _ ->

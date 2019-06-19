@@ -1,8 +1,10 @@
 import org.junit.Assert.assertEquals
 import org.junit.Test
-import selectionSort as sort
+
 
 class SelectionSortTest {
+    private val sorter = Sorter(::selectionSort)
+    val sort = sorter::sort
     @Test fun testSortSingleElement(){
         assertEquals(listOf(1), sort(listOf(1)))
     }
